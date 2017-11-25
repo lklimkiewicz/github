@@ -1,3 +1,7 @@
-bod{
+body{
 	background: red;
+}
+
+p{
+	font-style: italic;
 }
